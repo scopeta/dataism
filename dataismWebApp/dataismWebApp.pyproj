@@ -34,6 +34,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="dataismWebApp\" />
+    <Folder Include="dataismWebApp\images\" />
     <Folder Include="dataismWebApp\static\" />
     <Folder Include="dataismWebApp\static\content\" />
     <Folder Include="dataismWebApp\static\fonts\" />
@@ -41,6 +42,9 @@
     <Folder Include="dataismWebApp\templates\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="dataismWebApp\images\chicago.jpg" />
+    <Content Include="dataismWebApp\images\la.jpg" />
+    <Content Include="dataismWebApp\images\ny.jpg" />
     <Content Include="requirements.txt" />
     <Content Include="dataismWebApp\static\content\bootstrap.css" />
     <Content Include="dataismWebApp\static\content\bootstrap.min.css" />
